@@ -1,0 +1,40 @@
+# Daily Top Songs
+
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for {{ date }}. Updates daily shortly after midnight UTC.
+
+## Spotify
+
+|             | Rank            | Song            | Spotify Link                    | Apple Music Link                                                                             |
+| ----------- | --------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- |
+{% for song in spotify_songs %}
+{%- set delta %}
+{%- if song.delta is none -%}
+new
+{%- elif song.delta > 0 -%}
++{{ song.delta }}
+{%- elif song.delta < 0 -%}
+{{ song.delta }}
+{%- else -%}
+—
+{%- endif -%}
+{% endset -%}
+| {{ delta }} | {{ loop.index }} | {{ song.song }} | [link]({{ song.spotify_url }}) | {% if song.apple_music_url is none %}{% else %}[link]({{ song.apple_music_url }}){% endif %} |
+{% endfor %}
+## Apple Music
+
+|             | Rank            | Song            | Spotify Link                    | Apple Music Link                   |
+| ----------- | --------------- | --------------- | ------------------------------- | ---------------------------------- |
+{% for song in apple_music_songs %}
+{%- set delta %}
+{%- if song.delta is none -%}
+new
+{%- elif song.delta > 0 -%}
++{{ song.delta }}
+{%- elif song.delta < 0 -%}
+{{ song.delta }}
+{%- else -%}
+—
+{%- endif -%}
+{% endset -%}
+| {{ delta }} | {{ loop.index }} | {{ song.song }} | [link]({{ song.spotify_url }}) | [link]({{ song.apple_music_url }}) |
+{% endfor -%}
