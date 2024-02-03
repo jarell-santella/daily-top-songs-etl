@@ -1,0 +1,11 @@
+# Environment variables
+.env*
+
+# Virtual environments
+venv/
+
+# Python bytecode cache
+__pycache__/
+
+# Filesystem files
+.DS_Store
