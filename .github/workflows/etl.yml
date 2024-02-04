@@ -2,7 +2,7 @@ name: Daily ETL and Template Rendering Workflow
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "45 1 * * *"
 
 env:
   DB_HOST: ${{ secrets.DB_HOST }}

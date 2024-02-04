@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, February 3, 2024. Updates daily shortly after midnight UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, February 3, 2024. Updates daily shortly after 01:45 UTC.
 
 ## Spotify
 
