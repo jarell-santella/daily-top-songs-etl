@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, March 9, 2024. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, March 10, 2024. Updates daily shortly after 01:45 UTC.
 
 ## Spotify
 
@@ -10,12 +10,12 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 | — | 2 | Kanye West, Playboi Carti, Rich The Kid, Ty Dolla $ign, ¥$ - CARNIVAL | [link](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [link](https://music.apple.com/us/song/carnival/1730241073) |
 | — | 3 | Djo - End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
 | — | 4 | Tate McRae - greedy | [link](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [link](https://music.apple.com/us/song/greedy/1706381103) |
-| +1 | 5 | Teddy Swims - Lose Control | [link](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [link](https://music.apple.com/us/song/lose-control/1691699836) |
-| -1 | 6 | Taylor Swift - Cruel Summer | [link](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [link](https://music.apple.com/us/song/cruel-summer/1468058171) |
-| — | 7 | Beyoncé - TEXAS HOLD 'EM | [link](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [link](https://music.apple.com/us/song/texas-hold-em/1730408498) |
-| — | 8 | JENNIE, Lily-Rose Depp, The Weeknd - One Of The Girls (with JENNIE, Lily Rose Depp) | [link](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) |  |
-| — | 9 | Mitski - My Love Mine All Mine | [link](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) |  |
-| new | 10 | Cris Mj, FloyyMenor - Gata Only | [link](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) |  |
+| new | 5 | Ariana Grande - we can't be friends (wait for your love) | [link](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [link](https://music.apple.com/us/song/we-cant-be-friends-wait-for-your-love/1725878242) |
+| +4 | 6 | Ariana Grande - yes, and? | [link](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [link](https://music.apple.com/us/song/yes-and/1724584201) |
+| new | 7 | Ariana Grande - bye | [link](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [link](https://music.apple.com/us/song/bye/1725877947) |
+| -3 | 8 | Teddy Swims - Lose Control | [link](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [link](https://music.apple.com/us/song/lose-control/1691699836) |
+| new | 9 | Ariana Grande - the boy is mine | [link](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [link](https://music.apple.com/us/song/the-boy-is-mine/1725878239) |
+| new | 10 | Ariana Grande - eternal sunshine | [link](https://open.spotify.com/track/2waUyWiimcCeA8DbJH8BtT) | [link](https://music.apple.com/us/song/eternal-sunshine/1725877964) |
 
 ## Apple Music
 
@@ -23,11 +23,11 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 | ----------- | --------------- | --------------- | ------------------------------- | ---------------------------------- |
 | — | 1 | Kanye West, Playboi Carti, Rich The Kid, Ty Dolla $ign, ¥$ - CARNIVAL | [link](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [link](https://music.apple.com/us/song/carnival/1730241073) |
 | — | 2 | Benson Boone - Beautiful Things | [link](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [link](https://music.apple.com/us/song/beautiful-things/1724488124) |
-| +1 | 3 | Creepy Nuts - Bling-Bang-Bang-Born | [link](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [link](https://music.apple.com/us/song/bling-bang-bang-born/1720332181) |
-| -1 | 4 | Beyoncé - TEXAS HOLD 'EM | [link](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [link](https://music.apple.com/us/song/texas-hold-em/1730408498) |
-| — | 5 | 21 Savage - redrum | [link](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [link](https://music.apple.com/us/song/redrum/1724494724) |
-| — | 6 | Taylor Swift - Cruel Summer | [link](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [link](https://music.apple.com/us/song/cruel-summer/1468058171) |
-| — | 7 | Teddy Swims - Lose Control | [link](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [link](https://music.apple.com/us/song/lose-control/1691699836) |
-| — | 8 | SZA - Snooze | [link](https://open.spotify.com/track/24yrJJkmVUMkJHvCaR85BN) | [link](https://music.apple.com/us/song/snooze/1657869492) |
-| — | 9 | Bryson Tiller - Whatever She Wants | [link](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [link](https://music.apple.com/us/song/whatever-she-wants/1729856953) |
-| -1 | 10 | Jack Harlow - Lovin On Me | [link](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [link](https://music.apple.com/us/song/lovin-on-me/1715277428) |
+| new | 3 | Ariana Grande - bye | [link](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [link](https://music.apple.com/us/song/bye/1725877947) |
+| new | 4 | Ariana Grande - eternal sunshine | [link](https://open.spotify.com/track/2waUyWiimcCeA8DbJH8BtT) | [link](https://music.apple.com/us/song/eternal-sunshine/1725877964) |
+| new | 5 | Ariana Grande - we can't be friends (wait for your love) | [link](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [link](https://music.apple.com/us/song/we-cant-be-friends-wait-for-your-love/1725878242) |
+| new | 6 | Ariana Grande - don't wanna break up again | [link](https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA) | [link](https://music.apple.com/us/song/dont-wanna-break-up-again/1725877948) |
+| new | 7 | Ariana Grande - the boy is mine | [link](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [link](https://music.apple.com/us/song/the-boy-is-mine/1725878239) |
+| +2 | 8 | Ariana Grande - yes, and? | [link](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [link](https://music.apple.com/us/song/yes-and/1724584201) |
+| new | 9 | Ariana Grande - intro (end of the world) | [link](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [link](https://music.apple.com/us/song/intro-end-of-the-world/1725877946) |
+| new | 10 | Ariana Grande - supernatural | [link](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [link](https://music.apple.com/us/song/supernatural/1725877965) |
