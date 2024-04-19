@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Thursday, April 18, 2024. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Friday, April 19, 2024. Updates daily shortly after 01:45 UTC.
 
 ## Spotify
 
@@ -22,12 +22,12 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Thu
 |             | Rank            | Song            | Spotify Link                    | Apple Music Link                   |
 | ----------- | --------------- | --------------- | ------------------------------- | ---------------------------------- |
 | — | 1 | Future, Kendrick Lamar, Metro Boomin - Like That | [link](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [link](https://music.apple.com/us/song/like-that/1737150439) |
-| +3 | 2 | ILLIT - Magnetic | [link](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [link](https://music.apple.com/us/song/magnetic/1734500896) |
-| -1 | 3 | Benson Boone - Beautiful Things | [link](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [link](https://music.apple.com/us/song/beautiful-things/1724488124) |
-| -1 | 4 | Future, Metro Boomin, Playboi Carti, Travis Scott - Type Shit | [link](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [link](https://music.apple.com/us/song/type-shit/1737150156) |
-| -1 | 5 | Hozier - Too Sweet | [link](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [link](https://music.apple.com/us/song/too-sweet/1735414394) |
-| +1 | 6 | Ariana Grande - we can't be friends (wait for your love) | [link](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [link](https://music.apple.com/us/song/we-cant-be-friends-wait-for-your-love/1725878242) |
-| -1 | 7 | Future, Metro Boomin, The Weeknd - We Still Don't Trust You | [link](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [link](https://music.apple.com/us/song/we-still-dont-trust-you/1740864625) |
-| — | 8 | Cris Mj, FloyyMenor - Gata Only | [link](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [link](https://music.apple.com/us/song/gata-only/1727813561) |
-| new | 9 | Artemas - i like the way you kiss me | [link](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [link](https://music.apple.com/us/song/i-like-the-way-you-kiss-me/1736426869) |
-| -3 | 10 | Creepy Nuts - Bling-Bang-Bang-Born | [link](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [link](https://music.apple.com/us/song/bling-bang-bang-born/1720332181) |
+| +1 | 2 | Benson Boone - Beautiful Things | [link](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [link](https://music.apple.com/us/song/beautiful-things/1724488124) |
+| +1 | 3 | Future, Metro Boomin, Playboi Carti, Travis Scott - Type Shit | [link](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [link](https://music.apple.com/us/song/type-shit/1737150156) |
+| -2 | 4 | ILLIT - Magnetic | [link](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [link](https://music.apple.com/us/song/magnetic/1734500896) |
+| — | 5 | Hozier - Too Sweet | [link](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [link](https://music.apple.com/us/song/too-sweet/1735414394) |
+| +2 | 6 | Cris Mj, FloyyMenor - Gata Only | [link](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [link](https://music.apple.com/us/song/gata-only/1727813561) |
+| -1 | 7 | Ariana Grande - we can't be friends (wait for your love) | [link](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [link](https://music.apple.com/us/song/we-cant-be-friends-wait-for-your-love/1725878242) |
+| +1 | 8 | Artemas - i like the way you kiss me | [link](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [link](https://music.apple.com/us/song/i-like-the-way-you-kiss-me/1736426869) |
+| -2 | 9 | Future, Metro Boomin, The Weeknd - We Still Don't Trust You | [link](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [link](https://music.apple.com/us/song/we-still-dont-trust-you/1740864625) |
+| -1 | 10 | Sexyy Red - Get It Sexyy | [link](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [link](https://music.apple.com/us/song/get-it-sexyy/1736033446) |
