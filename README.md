@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Friday, May 31, 2024. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, June 1, 2024. Updates daily shortly after 01:45 UTC.
 
 ## Spotify
 
@@ -14,8 +14,8 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Fri
 | — | 6 | Cris Mj, FloyyMenor - Gata Only | [link](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [link](https://music.apple.com/us/song/gata-only/1727813561) |
 | — | 7 | Morgan Wallen, Post Malone - I Had Some Help (Feat. Morgan Wallen) | [link](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [link](https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744439049) |
 | — | 8 | Hozier - Too Sweet | [link](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) |  |
-| +1 | 9 | Artemas - i like the way you kiss me | [link](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [link](https://music.apple.com/us/song/i-like-the-way-you-kiss-me/1736426869) |
-| -1 | 10 | Billie Eilish - CHIHIRO | [link](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [link](https://music.apple.com/us/song/chihiro/1739659141) |
+| +1 | 9 | Benson Boone - Beautiful Things | [link](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [link](https://music.apple.com/us/song/beautiful-things/1724488124) |
+| — | 10 | Billie Eilish - CHIHIRO | [link](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [link](https://music.apple.com/us/song/chihiro/1739659141) |
 
 ## Apple Music
 
@@ -28,6 +28,6 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Fri
 | — | 5 | Zach Bryan - Pink Skies | [link](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [link](https://music.apple.com/us/song/pink-skies/1747842759) |
 | — | 6 | Sabrina Carpenter - Espresso | [link](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [link](https://music.apple.com/us/song/espresso/1740212434) |
 | — | 7 | Billie Eilish - BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
-| +1 | 8 | Central Cee, Lil Baby - BAND4BAND (feat. Lil Baby) | [link](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [link](https://music.apple.com/us/song/band4band/1747857516) |
-| -1 | 9 | Billie Eilish - LUNCH | [link](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [link](https://music.apple.com/us/song/lunch/1739659140) |
-| — | 10 | Billie Eilish - CHIHIRO | [link](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [link](https://music.apple.com/us/song/chihiro/1739659141) |
+| — | 8 | Central Cee, Lil Baby - BAND4BAND (feat. Lil Baby) | [link](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [link](https://music.apple.com/us/song/band4band/1747857516) |
+| — | 9 | Billie Eilish - LUNCH | [link](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [link](https://music.apple.com/us/song/lunch/1739659140) |
+| -2 | 10 | Future, Kendrick Lamar, Metro Boomin - Like That | [link](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [link](https://music.apple.com/us/song/like-that/1737150439) |
