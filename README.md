@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, June 1, 2024. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, June 2, 2024. Updates daily shortly after 01:45 UTC.
 
 ## Spotify
 
@@ -8,26 +8,26 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 | ----------- | --------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- |
 | — | 1 | Sabrina Carpenter - Espresso | [link](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [link](https://music.apple.com/us/song/espresso/1740212434) |
 | — | 2 | Tommy Richman - MILLION DOLLAR BABY | [link](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [link](https://music.apple.com/us/song/million-dollar-baby/1743095418) |
-| — | 3 | Billie Eilish - LUNCH | [link](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [link](https://music.apple.com/us/song/lunch/1739659140) |
-| — | 4 | Kendrick Lamar - Not Like Us | [link](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [link](https://music.apple.com/us/song/not-like-us/1744776167) |
-| — | 5 | Billie Eilish - BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
-| — | 6 | Cris Mj, FloyyMenor - Gata Only | [link](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [link](https://music.apple.com/us/song/gata-only/1727813561) |
-| — | 7 | Morgan Wallen, Post Malone - I Had Some Help (Feat. Morgan Wallen) | [link](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [link](https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744439049) |
-| — | 8 | Hozier - Too Sweet | [link](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) |  |
-| +1 | 9 | Benson Boone - Beautiful Things | [link](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [link](https://music.apple.com/us/song/beautiful-things/1724488124) |
-| — | 10 | Billie Eilish - CHIHIRO | [link](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [link](https://music.apple.com/us/song/chihiro/1739659141) |
+| new | 3 | Eminem - Houdini | [link](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [link](https://music.apple.com/us/song/houdini/1748971748) |
+| +1 | 4 | Billie Eilish - BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
+| -2 | 5 | Billie Eilish - LUNCH | [link](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [link](https://music.apple.com/us/song/lunch/1739659140) |
+| -2 | 6 | Kendrick Lamar - Not Like Us | [link](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [link](https://music.apple.com/us/song/not-like-us/1744776167) |
+| -1 | 7 | Cris Mj, FloyyMenor - Gata Only | [link](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [link](https://music.apple.com/us/song/gata-only/1727813561) |
+| -1 | 8 | Morgan Wallen, Post Malone - I Had Some Help (Feat. Morgan Wallen) | [link](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [link](https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744439049) |
+| +1 | 9 | Shaboozey - A Bar Song (Tipsy) | [link](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [link](https://music.apple.com/us/song/a-bar-song-tipsy/1737085899) |
+| -2 | 10 | Hozier - Too Sweet | [link](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) |  |
 
 ## Apple Music
 
 |             | Rank            | Song            | Spotify Link                    | Apple Music Link                   |
 | ----------- | --------------- | --------------- | ------------------------------- | ---------------------------------- |
 | — | 1 | Kendrick Lamar - Not Like Us | [link](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [link](https://music.apple.com/us/song/not-like-us/1744776167) |
-| — | 2 | Tommy Richman - MILLION DOLLAR BABY | [link](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [link](https://music.apple.com/us/song/million-dollar-baby/1743095418) |
-| — | 3 | Morgan Wallen, Post Malone - I Had Some Help (Feat. Morgan Wallen) | [link](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [link](https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744439049) |
+| +1 | 2 | Morgan Wallen, Post Malone - I Had Some Help (Feat. Morgan Wallen) | [link](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [link](https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744439049) |
+| -1 | 3 | Tommy Richman - MILLION DOLLAR BABY | [link](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [link](https://music.apple.com/us/song/million-dollar-baby/1743095418) |
 | — | 4 | Shaboozey - A Bar Song (Tipsy) | [link](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [link](https://music.apple.com/us/song/a-bar-song-tipsy/1737085899) |
-| — | 5 | Zach Bryan - Pink Skies | [link](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [link](https://music.apple.com/us/song/pink-skies/1747842759) |
+| new | 5 | Eminem - Houdini | [link](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [link](https://music.apple.com/us/song/houdini/1748971748) |
 | — | 6 | Sabrina Carpenter - Espresso | [link](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [link](https://music.apple.com/us/song/espresso/1740212434) |
-| — | 7 | Billie Eilish - BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
-| — | 8 | Central Cee, Lil Baby - BAND4BAND (feat. Lil Baby) | [link](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [link](https://music.apple.com/us/song/band4band/1747857516) |
-| — | 9 | Billie Eilish - LUNCH | [link](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [link](https://music.apple.com/us/song/lunch/1739659140) |
-| -2 | 10 | Future, Kendrick Lamar, Metro Boomin - Like That | [link](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [link](https://music.apple.com/us/song/like-that/1737150439) |
+| -2 | 7 | Zach Bryan - Pink Skies | [link](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [link](https://music.apple.com/us/song/pink-skies/1747842759) |
+| -1 | 8 | Billie Eilish - BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
+| -1 | 9 | Central Cee, Lil Baby - BAND4BAND (feat. Lil Baby) | [link](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [link](https://music.apple.com/us/song/band4band/1747857516) |
+| — | 10 | Future, Kendrick Lamar, Metro Boomin - Like That | [link](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [link](https://music.apple.com/us/song/like-that/1737150439) |
