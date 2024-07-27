@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Friday, July 26, 2024. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, July 27, 2024. Updates daily shortly after 01:45 UTC.
 
 ## Spotify
 
@@ -12,8 +12,8 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Fri
 | — | 4 | Sabrina Carpenter - Please Please Please | [link](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [link](https://music.apple.com/us/song/please-please-please/1750307080) |
 | — | 5 | Kendrick Lamar - Not Like Us | [link](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [link](https://music.apple.com/us/song/not-like-us/1744776167) |
 | — | 6 | Cris Mj, FloyyMenor - Gata Only | [link](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [link](https://music.apple.com/us/song/gata-only/1727813561) |
-| +1 | 7 | KAROL G - Si Antes Te Hubiera Conocido | [link](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) |  |
-| -1 | 8 | Chappell Roan - Good Luck, Babe! | [link](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [link](https://music.apple.com/us/song/good-luck-babe/1737497080) |
+| — | 7 | KAROL G - Si Antes Te Hubiera Conocido | [link](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) |  |
+| — | 8 | Chappell Roan - Good Luck, Babe! | [link](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [link](https://music.apple.com/us/song/good-luck-babe/1737497080) |
 | — | 9 | Benson Boone - Beautiful Things | [link](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [link](https://music.apple.com/us/song/beautiful-things/1724488124) |
 | -1 | 10 | Shaboozey - A Bar Song (Tipsy) | [link](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [link](https://music.apple.com/us/song/a-bar-song-tipsy/1737085899) |
 
@@ -30,4 +30,4 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Fri
 | — | 7 | Morgan Wallen - Lies Lies Lies | [link](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [link](https://music.apple.com/us/song/lies-lies-lies/1754189283) |
 | — | 8 | Tommy Richman - MILLION DOLLAR BABY | [link](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [link](https://music.apple.com/us/song/million-dollar-baby/1743095418) |
 | — | 9 | Zach Bryan - Pink Skies | [link](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [link](https://music.apple.com/us/song/pink-skies/1747842759) |
-| new | 10 | Chappell Roan - Good Luck, Babe! | [link](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [link](https://music.apple.com/us/song/good-luck-babe/1737497080) |
+| — | 10 | Chappell Roan - Good Luck, Babe! | [link](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [link](https://music.apple.com/us/song/good-luck-babe/1737497080) |
