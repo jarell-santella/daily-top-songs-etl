@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, July 27, 2024. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, July 28, 2024. Updates daily shortly after 01:45 UTC.
 
 ## Spotify
 
@@ -29,5 +29,5 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 | — | 6 | Sabrina Carpenter - Please Please Please | [link](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [link](https://music.apple.com/us/song/please-please-please/1750307080) |
 | — | 7 | Morgan Wallen - Lies Lies Lies | [link](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [link](https://music.apple.com/us/song/lies-lies-lies/1754189283) |
 | — | 8 | Tommy Richman - MILLION DOLLAR BABY | [link](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [link](https://music.apple.com/us/song/million-dollar-baby/1743095418) |
-| — | 9 | Zach Bryan - Pink Skies | [link](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [link](https://music.apple.com/us/song/pink-skies/1747842759) |
-| — | 10 | Chappell Roan - Good Luck, Babe! | [link](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [link](https://music.apple.com/us/song/good-luck-babe/1737497080) |
+| +1 | 9 | Chappell Roan - Good Luck, Babe! | [link](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [link](https://music.apple.com/us/song/good-luck-babe/1737497080) |
+| — | 10 | Hozier - Too Sweet | [link](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [link](https://music.apple.com/us/song/too-sweet/1735414394) |
