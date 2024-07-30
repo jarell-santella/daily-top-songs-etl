@@ -63,6 +63,33 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+def escape_special_characters(word: str) -> str:
+    """
+    Escapes special characters in a string by prepending a backslash to each special character.
+
+    This function iterates over each character in the input string and escapes special characters
+    to ensure that they are treated as literals rather than interpreted with their special meaning.
+
+    Parameters:
+        word (str): The string containing potential special characters to be escaped.
+
+    Returns:
+        str: A string where each special character from the input has been escaped with a backslash.
+    """
+    special_characters = {
+        "`", "_", "*", "~", "{", "}", "[", "]", "(", ")", "#", "+", "-", ".", "!", "|", "$",
+    }
+
+    escaped_string = ""
+
+    for character in word:
+        if character in special_characters:
+            escaped_string += "\\"
+        escaped_string += character
+
+    return escaped_string
+
+
 async def main() -> None:
     """
     Main asynchronous entry point of the script.
@@ -117,6 +144,8 @@ async def main() -> None:
         record = dict(record)
 
         logger.debug("Record %s queried from database.", record)
+
+        record["song"] = escape_special_characters(record["song"])
 
         record["spotify_embed_src"] = (
             record["spotify_url"].replace("/track/", "/embed/track/") + "?theme=0"
