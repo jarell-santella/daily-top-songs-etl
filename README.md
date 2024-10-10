@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wednesday, October 9, 2024. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Thursday, October 10, 2024. Updates daily shortly after 01:45 UTC.
 
 ## Spotify
 
@@ -12,10 +12,10 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wed
 | — | 4 | Sabrina Carpenter \- Taste | [link](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [link](https://music.apple.com/us/song/taste/1750307079) |
 | — | 5 | Sabrina Carpenter \- Espresso | [link](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [link](https://music.apple.com/us/song/espresso/1740212434) |
 | — | 6 | Chappell Roan \- Good Luck, Babe\! | [link](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [link](https://music.apple.com/us/song/good-luck-babe/1737497080) |
-| +1 | 7 | Playboi Carti, The Weeknd \- Timeless \(with Playboi Carti\) | [link](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [link](https://music.apple.com/us/song/timeless/1770380890) |
-| -1 | 8 | KAROL G \- Si Antes Te Hubiera Conocido | [link](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) |  |
+| — | 7 | Playboi Carti, The Weeknd \- Timeless \(with Playboi Carti\) | [link](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [link](https://music.apple.com/us/song/timeless/1770380890) |
+| — | 8 | KAROL G \- Si Antes Te Hubiera Conocido | [link](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) |  |
 | — | 9 | Sabrina Carpenter \- Please Please Please | [link](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [link](https://music.apple.com/us/song/please-please-please/1750307080) |
-| — | 10 | Benson Boone \- Beautiful Things | [link](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [link](https://music.apple.com/us/song/beautiful-things/1724488124) |
+| new | 10 | Gigi Perez \- Sailor Song | [link](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) |  |
 
 ## Apple Music
 
@@ -27,7 +27,7 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wed
 | — | 4 | Sabrina Carpenter \- Espresso | [link](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [link](https://music.apple.com/us/song/espresso/1740212434) |
 | — | 5 | Sabrina Carpenter \- Taste | [link](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [link](https://music.apple.com/us/song/taste/1750307079) |
 | — | 6 | Sabrina Carpenter \- Please Please Please | [link](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [link](https://music.apple.com/us/song/please-please-please/1750307080) |
-| — | 7 | Morgan Wallen, Post Malone \- I Had Some Help \(Feat\. Morgan Wallen\) | [link](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [link](https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744439049) |
-| +2 | 8 | Billie Eilish \- WILDFLOWER | [link](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [link](https://music.apple.com/us/song/wildflower/1739659144) |
-| -1 | 9 | Shaboozey \- A Bar Song \(Tipsy\) | [link](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [link](https://music.apple.com/us/song/a-bar-song-tipsy/1737085899) |
-| -1 | 10 | Kendrick Lamar \- Not Like Us | [link](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [link](https://music.apple.com/us/song/not-like-us/1744776167) |
+| +1 | 7 | Billie Eilish \- WILDFLOWER | [link](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [link](https://music.apple.com/us/song/wildflower/1739659144) |
+| -1 | 8 | Morgan Wallen, Post Malone \- I Had Some Help \(Feat\. Morgan Wallen\) | [link](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [link](https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744439049) |
+| — | 9 | Shaboozey \- A Bar Song \(Tipsy\) | [link](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [link](https://music.apple.com/us/song/a-bar-song-tipsy/1737085899) |
+| — | 10 | Kendrick Lamar \- Not Like Us | [link](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [link](https://music.apple.com/us/song/not-like-us/1744776167) |
