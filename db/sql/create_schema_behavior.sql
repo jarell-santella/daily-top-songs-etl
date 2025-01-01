@@ -134,13 +134,18 @@ SELECT
     music_data.get_formatted_song_info_fn (t1.isrc) AS song,
     spotify_url,
     apple_music_url,
-    LAG(t1.rank) OVER (
-        PARTITION BY
-            ranking_source,
-            t1.isrc
-        ORDER BY
-            ranking_date
-    ) - rank AS delta
+    CASE
+        WHEN t1.ranking_date = LAG(t1.ranking_date) OVER (
+            PARTITION BY ranking_source, t1.isrc
+            ORDER BY ranking_date
+        ) + INTERVAL '1 day' THEN
+            LAG(t1.rank) OVER (
+                PARTITION BY ranking_source, t1.isrc
+                ORDER BY ranking_date
+            ) - rank
+        ELSE
+            NULL
+    END AS delta
 FROM
     music_data.ranking_tb t1
 LEFT JOIN
