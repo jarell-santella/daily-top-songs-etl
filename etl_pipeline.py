@@ -1,3 +1,4 @@
+# pylint: disable=too-many-lines
 """
 This script is designed to act as an ETL (Extract, Transform, Load) pipeline that periodically
 fetches and processes music playlist data from Spotify and Apple Music, and then loads this data
@@ -47,7 +48,6 @@ This script's functionality is dependent on the structure of the web pages and A
 with. Changes to Spotify's or Apple Music's web structure or API response formats may require
 updates to the script.
 """
-
 
 import asyncio
 import base64
@@ -133,6 +133,25 @@ class UnexpectedContentTypeError(Exception):
     def __init__(
         self,
         message="Expected content type of either 'text/html' or 'application/json'.",
+    ):
+        super().__init__(message)
+
+
+class SongDataNotFoundError(Exception):
+    """
+    Exception raised when expected song data is missing.
+
+    This exception is used to indicate that critical song data is missing such that the ETL
+    pipeline cannot continue in order to preserve data integrity.
+
+    Attributes:
+        message (str): An optional error message that can provide additional context about the
+            data not found issue.
+    """
+
+    def __init__(
+        self,
+        message="Expected song data is missing.",
     ):
         super().__init__(message)
 
@@ -395,28 +414,41 @@ async def get_spotify_song_data_from_spotify_song_urls(
 
 
 async def get_spotify_song_data_from_isrcs(
-    session: aiohttp.ClientSession, spotify_access_token: str, isrcs: list[str]
-) -> dict[str, Any]:
+    session: aiohttp.ClientSession,
+    spotify_access_token: str,
+    isrcs: list[str],
+    spotify_song_data: dict[str, Any],
+    lookup_data: dict[str, Any],
+) -> tuple[dict[str, Any], dict[str, str]]:
     """
     Asynchronously fetches Spotify song data for a list of ISRCs (International Standard Recording
     Codes).
 
     This function concurrently fetches the song data for the provided ISRCs using the Spotify Web
     API. Since Spotify's Web API does not support searching for multiple ISRCs in a single request,
-    this function makes concurrent asynchronous requests, one for each ISRC.
+    this function makes concurrent asynchronous requests, one for each ISRC. If a song for an ISRC
+    could not be found, a second attempt will be made to search for the song with its artists' names
+    and the song name.
 
     Parameters:
         session (aiohttp.ClientSession): The HTTP client session for making requests.
         spotify_access_token (str): The access token for authenticating with the Spotify Web API.
         isrcs (list[str]): A list of ISRCs for which to fetch song data.
+        spotify_song_data (dict[str, Any]): A dictionary of ISRCs to determine if the song data has
+            already been fetched.
+        lookup_data (dict[str, Any]): A dictionary containing the original ISRCs and the relevant
+            data to be used for backup searches.
 
     Returns:
         dict[str, Any]: A dictionary where each key is an ISRC and each value is the corresponding
             song data from Spotify.
+        dict[str, str]: A dictionary where each key is the original ISRC and each value is the
+            corrected ISRC.
 
     Raises:
         aiohttp.ClientError: If an HTTP request to the Spotify Web API fails.
         KeyError: If the expected data structure in the Spotify Web API response is not present.
+        SongDataNotFoundError: If corresponding data could not be found for an ISRC.
 
     Note:
         This function depends on the 'fetch_spotify' function to make individual API requests and
@@ -435,15 +467,63 @@ async def get_spotify_song_data_from_isrcs(
             for isrc in isrcs
         ]
     )
-    return {
-        isrc: song_data
-        for song_response_data in data
-        for isrc, song_data in [
-            get_relevant_spotify_song_response_data(
-                song_response_data["tracks"]["items"][0]
+
+    song_data = {}
+    corrected_song_isrcs = {}
+
+    for i, song_response_data in enumerate(data):
+        song_response_data_details = song_response_data["tracks"]["items"]
+        # There is an edge case where the ISRC used by Apple Music does not match the ISRC used by
+        # Spotify
+        if song_response_data_details:
+            isrc, relevant_song_data = get_relevant_spotify_song_response_data(
+                song_response_data_details[0]
             )
-        ]
-    }
+        else:
+            isrc = isrcs[i]
+            logger.warning(
+                "Could not find song data for song with ISRC '%s'. Attempting backup search.",
+                isrc,
+            )
+
+            relevant_lookup_data = lookup_data[isrc]
+
+            search_query = (
+                " ".join(
+                    [
+                        f"artist:{artist_name}"
+                        for artist_name in relevant_lookup_data["artists"].values()
+                    ]
+                )
+                + f" track:{relevant_lookup_data["song_name"]}"
+            )
+            song_response_data = await fetch_spotify(
+                session,
+                f"{SPOTIFY_BASE_API_URL}v1/search?q={search_query}&type=track",
+                spotify_access_token,
+            )
+
+            song_response_data_details = song_response_data["tracks"]["items"]
+
+            if not song_response_data_details:
+                raise SongDataNotFoundError(
+                    f"Could not find any data on Spotify for song with ISRC '{isrc}'."
+                )
+
+            isrc, relevant_song_data = get_relevant_spotify_song_response_data(
+                song_response_data_details[0]
+            )
+
+            corrected_song_isrcs[isrcs[i]] = isrc
+
+            # If ISRC has already been recorded, do not overwrite it. Just continue onto the next
+            # iteration of the loop
+            if isrc in spotify_song_data:
+                continue
+
+        song_data[isrc] = relevant_song_data
+
+    return song_data, corrected_song_isrcs
 
 
 def get_apple_music_song_urls(html: str) -> list[str]:
@@ -478,20 +558,21 @@ def get_apple_music_song_urls(html: str) -> list[str]:
     ]
 
 
-def get_apple_music_song_isrc(html: str) -> str:
+def get_relevant_apple_music_song_data(html: str) -> tuple[str, dict[str, Any]]:
     """
-    Extracts the ISRC (International Standard Recording Code) from the HTML content of an Apple
-    Music song page.
+    Extracts relevant data from the HTML content of an Apple Music song page.
 
     This function parses the provided HTML content of an Apple Music song page using BeautifulSoup.
-    It searches for a script tag that contains serialized server data in JSON format. From the JSON
-    data, this function extracts and returns the ISRC of the song.
+    It searches for a script tag that contains serialized server data in JSON format. The extracted
+    data includes the song's ISRC (International Standard Recording Code), artist information, and
+    song name.
 
     Parameters:
         html (str): The HTML content of an Apple Music song page.
 
     Returns:
         str: The ISRC extracted from the HTML content.
+        dict[str, Any]: A dictionary containing the data of the corresponding song.
 
     Raises:
         KeyError: If the expected data structure in the JSON is not found.
@@ -500,27 +581,33 @@ def get_apple_music_song_isrc(html: str) -> str:
             not found.
 
     Note:
-        This function depends on the structure of the Apple Music song page to locate the ISRC.
-        Changes in the website's structure may require updates to the parsing logic.
+        This function depends on the structure of the Apple Music song page to locate the relevant
+        information. Changes in the website's structure may require updates to the parsing logic.
     """
     apple_music_soup = BeautifulSoup(html, "html.parser")
     serialized_server_data = apple_music_soup.find(
         "script", {"id": "serialized-server-data", "type": "application/json"}
     )
-    return json.loads(serialized_server_data.text)[0]["data"]["seoData"]["ogSongs"][0][
-        "attributes"
-    ]["isrc"]
+    seo_data = json.loads(serialized_server_data.text)[0]["data"]["seoData"]
+    isrc = seo_data["ogSongs"][0]["attributes"]["isrc"]
+    schema_content = seo_data["schemaContent"]
+    return isrc, {
+        "artists": {
+            "artist_name": artist["name"]
+            for artist in schema_content["audio"]["byArtist"]
+        },
+        "song_name": schema_content["name"],
+    }
 
 
-async def get_isrcs_from_apple_music_song_urls(
+async def get_apple_music_song_data_from_apple_music_song_urls(
     session: aiohttp.ClientSession, song_urls: list[str]
-) -> list[str]:
+) -> tuple[list[str], dict[str, Any]]:
     """
-    Asynchronously fetches and extracts ISRCs (International Standard Recording Codes) for a list of
-    Apple Music song URLs.
+    Asynchronously fetches Apple Music song data for a list of Apple Music song URLs.
 
     This function concurrently fetches the HTML content for the provided Apple Music song URLs and
-    then extracts the ISRCs of the songs from the fetched HTML content using BeautifulSoup.
+    then extracts the song data of the songs from the fetched HTML content using BeautifulSoup.
 
     Parameters:
         session (aiohttp.ClientSession): The HTTP client session for making requests.
@@ -528,18 +615,28 @@ async def get_isrcs_from_apple_music_song_urls(
 
     Returns:
         list[str]: A list of ISRCs corresponding to each provided Apple Music song URL.
+        dict[str, Any]: A dictionary where each key is an ISRC and each value is the corresponding
+            song data from Apple Music.
 
     Raises:
         aiohttp.ClientError: If an HTTP request fails.
 
     Note:
-        This function depends on the structure of the Apple Music song page to locate the ISRC.
+        This function depends on the structure of the Apple Music song page to locate the song data.
         Changes in the website's structure may require updates to the parsing logic.
     """
     song_htmls = await asyncio.gather(
         *[fetch(session, song_url) for song_url in song_urls]
     )
-    return [get_apple_music_song_isrc(song_html) for song_html in song_htmls]
+
+    isrcs = []
+    apple_music_song_data = {}
+    for song_html in song_htmls:
+        isrc, song_data = get_relevant_apple_music_song_data(song_html)
+        isrcs.append(isrc)
+        apple_music_song_data[isrc] = song_data
+
+    return isrcs, apple_music_song_data
 
 
 # Parametrized queries to prevent SQL injection attacks. Postgres uses server-side argument binding
@@ -833,9 +930,11 @@ async def load_ranking_data(connection: asyncpg.Connection, isrcs: list[str]) ->
                 '"'
                 + '","'.join(
                     [
-                        value.isoformat()
-                        if isinstance(value, datetime.date)
-                        else str(value)
+                        (
+                            value.isoformat()
+                            if isinstance(value, datetime.date)
+                            else str(value)
+                        )
                         for value in list(record.values())
                     ]
                 )
@@ -863,6 +962,9 @@ async def main() -> None:
 
     Returns:
         None: This function does not return any value.
+
+    Raises:
+        SongDataNotFoundError: If there is missing data needed to perform the ranking.
     """
     async with (
         aiohttp.ClientSession() as session,
@@ -913,7 +1015,7 @@ async def main() -> None:
             "URLs."
         )
 
-        spotify_song_data, apple_music_song_isrcs = await asyncio.gather(
+        spotify_song_data, apple_music_song_data = await asyncio.gather(
             get_spotify_song_data_from_spotify_song_urls(
                 session,
                 spotify_access_token,
@@ -921,10 +1023,16 @@ async def main() -> None:
             ),
             # Spotify song data is not immediately available; needs common identifier (ISRC) to
             # lookup Apple Music song in Spotify database to then retrieve the relevant data
-            get_isrcs_from_apple_music_song_urls(session, apple_music_song_urls),
+            get_apple_music_song_data_from_apple_music_song_urls(
+                session, apple_music_song_urls
+            ),
         )
 
         spotify_song_isrcs, spotify_song_data = spotify_song_data
+        apple_music_song_isrcs, apple_music_song_data = apple_music_song_data
+
+        if len(spotify_song_isrcs) != 10 or len(apple_music_song_isrcs) != 10:
+            raise SongDataNotFoundError("Ranking data is missing.")
 
         logger.debug(
             "ISRCs of top 10 Spotify songs:\n - %s", "\n - ".join(spotify_song_isrcs)
@@ -937,12 +1045,23 @@ async def main() -> None:
         logger.info("Fetching Spotify song data from Apple Music song ISRCs.")
 
         # Uses Spotify data to get song and artist information
-        apple_music_song_data = await get_spotify_song_data_from_isrcs(
-            session,
-            spotify_access_token,
-            # Does not need to fetch song data from union of sets of ISRCs
-            [isrc for isrc in apple_music_song_isrcs if isrc not in spotify_song_data],
+        apple_music_song_data, corrected_apple_music_song_isrcs = (
+            await get_spotify_song_data_from_isrcs(
+                session,
+                spotify_access_token,
+                # Does not need to fetch song data from union of sets of ISRCs
+                apple_music_song_isrcs,
+                spotify_song_data,
+                apple_music_song_data,
+            )
         )
+
+        apple_music_song_isrcs = [
+            corrected_apple_music_song_isrcs.get(
+                apple_music_song_isrc, apple_music_song_isrc
+            )
+            for apple_music_song_isrc in apple_music_song_isrcs
+        ]
 
         logger.info(
             "Getting union of Spotify song data of Spotify and Apple Music songs."
@@ -956,7 +1075,9 @@ async def main() -> None:
 
         # `apple_music_song_isrcs` and `apple_music_song_urls` are both in 1-10 order
         for i, apple_music_song_isrc in enumerate(apple_music_song_isrcs):
-            song_data[apple_music_song_isrc]["apple_music_url"] = apple_music_song_urls[i]
+            song_data[apple_music_song_isrc]["apple_music_url"] = apple_music_song_urls[
+                i
+            ]
 
         logger.debug("Final song data:\n\n%s\n", json.dumps(song_data, indent=4))
 
@@ -975,8 +1096,8 @@ async def main() -> None:
             )
             await asyncio.gather(
                 load_artist_song_map_data(con1, song_data),
-                # ISRCs are in 1-10 order. After concatenation, former are 1-10 from
-                # Spotify and latter are 1-10 from Apple Music
+                # ISRCs are in 1-10 order. After concatenation, former are 1-10 from Spotify and
+                # latter are 1-10 from Apple Music
                 load_ranking_data(con2, spotify_song_isrcs + apple_music_song_isrcs),
             )
 
