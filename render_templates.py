@@ -17,7 +17,6 @@ Environment Variables and Configuration
 - Database connection parameters should be set as environment variables.
 """
 
-
 import asyncio
 from configparser import ConfigParser
 import datetime
@@ -77,7 +76,23 @@ def escape_special_characters(word: str) -> str:
         str: A string where each special character from the input has been escaped with a backslash.
     """
     special_characters = {
-        "`", "_", "*", "~", "{", "}", "[", "]", "(", ")", "#", "+", "-", ".", "!", "|", "$",
+        "`",
+        "_",
+        "*",
+        "~",
+        "{",
+        "}",
+        "[",
+        "]",
+        "(",
+        ")",
+        "#",
+        "+",
+        "-",
+        ".",
+        "!",
+        "|",
+        "$",
     }
 
     escaped_string = ""
