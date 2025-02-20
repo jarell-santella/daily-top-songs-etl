@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wednesday, February 19, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Thursday, February 20, 2025. Updates daily shortly after 01:45 UTC.
 
 ## Spotify
 
@@ -21,13 +21,13 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wed
 
 |             | Rank            | Song            | Spotify Link                    | Apple Music Link                   |
 | ----------- | --------------- | --------------- | ------------------------------- | ---------------------------------- |
-| +1 | 1 | Kendrick Lamar, SZA \- luther \(with sza\) | [link](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [link](https://music.apple.com/us/song/luther/1781270323) |
-| -1 | 2 | Kendrick Lamar \- Not Like Us | [link](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [link](https://music.apple.com/us/song/not-like-us/1744776167) |
+| — | 1 | Kendrick Lamar, SZA \- luther \(with sza\) | [link](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [link](https://music.apple.com/us/song/luther/1781270323) |
+| — | 2 | Kendrick Lamar \- Not Like Us | [link](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [link](https://music.apple.com/us/song/not-like-us/1744776167) |
 | — | 3 | Drake \- GIMME A HUG | [link](https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An) | [link](https://music.apple.com/us/song/gimme-a-hug/1796127367) |
-| — | 4 | Drake, PARTYNEXTDOOR \- CN TOWER | [link](https://open.spotify.com/track/4u43I0LP2Xf85OAS85eG0R) | [link](https://music.apple.com/us/song/cn-tower/1796127243) |
-| +1 | 5 | Drake \- NOKIA | [link](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [link](https://music.apple.com/us/song/nokia/1796127375) |
-| +1 | 6 | Drake, PARTYNEXTDOOR \- SOMEBODY LOVES ME | [link](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [link](https://music.apple.com/us/song/somebody-loves-me/1796127378) |
-| +1 | 7 | Kendrick Lamar, Lefty Gunplay \- tv off \(feat\. lefty gunplay\) | [link](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [link](https://music.apple.com/us/song/tv-off-feat-lefty-gunplay/1781270540) |
-| -3 | 8 | Drake, PARTYNEXTDOOR \- SOMETHING ABOUT YOU | [link](https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt) | [link](https://music.apple.com/us/song/something-about-you/1796127251) |
-| new | 9 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
-| new | 10 | Kendrick Lamar, SZA \- 30 For 30 \(with Kendrick Lamar\) | [link](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [link](https://music.apple.com/us/song/30-for-30-with-kendrick-lamar/1786643047) |
+| +1 | 4 | Drake \- NOKIA | [link](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [link](https://music.apple.com/us/song/nokia/1796127375) |
+| -1 | 5 | Drake, PARTYNEXTDOOR \- CN TOWER | [link](https://open.spotify.com/track/4u43I0LP2Xf85OAS85eG0R) | [link](https://music.apple.com/us/song/cn-tower/1796127243) |
+| +1 | 6 | Kendrick Lamar, Lefty Gunplay \- tv off \(feat\. lefty gunplay\) | [link](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [link](https://music.apple.com/us/song/tv-off-feat-lefty-gunplay/1781270540) |
+| -1 | 7 | Drake, PARTYNEXTDOOR \- SOMEBODY LOVES ME | [link](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [link](https://music.apple.com/us/song/somebody-loves-me/1796127378) |
+| +1 | 8 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
+| new | 9 | Drake, PARTYNEXTDOOR, Yebba \- DIE TRYING | [link](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [link](https://music.apple.com/us/song/die-trying/1796127376) |
+| — | 10 | Kendrick Lamar, SZA \- 30 For 30 \(with Kendrick Lamar\) | [link](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [link](https://music.apple.com/us/song/30-for-30-with-kendrick-lamar/1786643047) |
