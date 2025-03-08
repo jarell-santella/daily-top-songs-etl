@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Friday, March 7, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, March 8, 2025. Updates daily shortly after 01:45 UTC.
 
 ## Spotify
 
@@ -13,9 +13,9 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Fri
 | — | 5 | Kendrick Lamar \- Not Like Us | [link](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [link](https://music.apple.com/us/song/not-like-us/1744776167) |
 | — | 6 | Bad Bunny \- DtMF | [link](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [link](https://music.apple.com/us/song/dtmf/1787023936) |
 | — | 7 | Gracie Abrams \- That’s So True | [link](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [link](https://music.apple.com/us/song/thats-so-true/1773474483) |
-| +1 | 8 | Jimin \- Who | [link](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) |  |
-| +1 | 9 | Bad Bunny \- BAILE INoLVIDABLE | [link](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [link](https://music.apple.com/us/song/baile-inolvidable/1787022842) |
-| -2 | 10 | Kendrick Lamar, SZA \- All The Stars \(with SZA\) | [link](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [link](https://music.apple.com/us/song/all-the-stars/1440906939) |
+| — | 8 | Jimin \- Who | [link](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) |  |
+| — | 9 | Bad Bunny \- BAILE INoLVIDABLE | [link](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [link](https://music.apple.com/us/song/baile-inolvidable/1787022842) |
+| — | 10 | Kendrick Lamar, SZA \- All The Stars \(with SZA\) | [link](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [link](https://music.apple.com/us/song/all-the-stars/1440906939) |
 
 ## Apple Music
 
