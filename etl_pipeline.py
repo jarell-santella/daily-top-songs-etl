@@ -920,69 +920,83 @@ async def main() -> None:
         # data and making requests to the Apple Music API (and MusicKit) is locked behind a paywall
         # as you need to be a Apple Developer Program member. See:
         # https://developer.apple.com/documentation/applemusicapi/generating_developer_tokens
-        spotify_access_token, spotify_html, apple_music_html = await asyncio.gather(
+        # spotify_access_token, spotify_html, apple_music_html = await asyncio.gather(
+        #     get_spotify_access_token(session),
+        #     fetch(session, SPOTIFY_PLAYLIST_URL),
+        #     fetch(session, APPLE_MUSIC_PLAYLIST_URL),
+        # )
+
+        spotify_access_token, spotify_html = await asyncio.gather(
             get_spotify_access_token(session),
             fetch(session, SPOTIFY_PLAYLIST_URL),
-            fetch(session, APPLE_MUSIC_PLAYLIST_URL),
         )
 
-        logger.info("Extracting URLs of top 10 Spotify and Apple Music songs.")
+        logger.info("Extracting URLs of top 10 Spotify.") # and Apple Music songs.")
 
         spotify_song_urls = get_spotify_song_urls(spotify_html)
-        apple_music_song_urls = get_apple_music_song_urls(apple_music_html)
+        # apple_music_song_urls = get_apple_music_song_urls(apple_music_html)
 
         logger.debug(
             "URLs of top 10 Spotify songs:\n - %s", "\n - ".join(spotify_song_urls)
         )
-        logger.debug(
-            "URLs of top 10 Apple Music songs:\n - %s",
-            "\n - ".join(apple_music_song_urls),
-        )
+        # logger.debug(
+        #     "URLs of top 10 Apple Music songs:\n - %s",
+        #     "\n - ".join(apple_music_song_urls),
+        # )
 
         logger.info("Fetching Spotify and Apple Music song data.")
 
-        spotify_song_data, apple_music_song_data = await asyncio.gather(
-            get_spotify_song_data_from_spotify_song_urls(
-                session,
-                spotify_access_token,
-                spotify_song_urls,
-            ),
-            # Spotify song data is not immediately available; needs common identifier (ISRC) to
-            # lookup Apple Music song in Spotify database to then retrieve the relevant data
-            get_apple_music_song_data_from_apple_music_song_urls(
-                session, spotify_access_token, apple_music_song_urls
-            ),
+        # spotify_song_data, apple_music_song_data = await asyncio.gather(
+        #     get_spotify_song_data_from_spotify_song_urls(
+        #         session,
+        #         spotify_access_token,
+        #         spotify_song_urls,
+        #     ),
+        #     # Spotify song data is not immediately available; needs common identifier (ISRC) to
+        #     # lookup Apple Music song in Spotify database to then retrieve the relevant data
+        #     get_apple_music_song_data_from_apple_music_song_urls(
+        #         session, spotify_access_token, apple_music_song_urls
+        #     ),
+        # )
+        spotify_song_data = await get_spotify_song_data_from_spotify_song_urls(
+            session,
+            spotify_access_token,
+            spotify_song_urls,
         )
 
         spotify_song_isrcs, spotify_song_data = spotify_song_data
-        apple_music_song_isrcs, apple_music_song_data = apple_music_song_data
+        # apple_music_song_isrcs, apple_music_song_data = apple_music_song_data
 
-        if len(spotify_song_isrcs) != 10 or len(apple_music_song_isrcs) != 10:
+        # if len(spotify_song_isrcs) != 10 or len(apple_music_song_isrcs) != 10:
+        #     raise SongDataNotFoundError("Ranking data is missing.")
+        if len(spotify_song_isrcs) != 10:
             raise SongDataNotFoundError("Ranking data is missing.")
 
         logger.debug(
             "ISRCs of top 10 Spotify songs:\n - %s", "\n - ".join(spotify_song_isrcs)
         )
-        logger.debug(
-            "ISRCs of top 10 Apple Music songs:\n - %s",
-            "\n - ".join(apple_music_song_isrcs),
-        )
+        # logger.debug(
+        #     "ISRCs of top 10 Apple Music songs:\n - %s",
+        #     "\n - ".join(apple_music_song_isrcs),
+        # )
 
-        logger.info(
-            "Getting union of Spotify song data of Spotify and Apple Music songs."
-        )
+        # logger.info(
+        #     "Getting union of Spotify song data of Spotify and Apple Music songs."
+        # )
 
-        # Technically prior to merging and on Python 3.7 or higher, the keys of both dictionaries
-        # are in order of rank (1-10)
-        song_data = spotify_song_data | apple_music_song_data
+        # # Technically prior to merging and on Python 3.7 or higher, the keys of both dictionaries
+        # # are in order of rank (1-10)
+        # song_data = spotify_song_data | apple_music_song_data
 
-        logger.info("Adding Apple Music URL data to existing song data.")
+        # logger.info("Adding Apple Music URL data to existing song data.")
 
-        # `apple_music_song_isrcs` and `apple_music_song_urls` are both in 1-10 order
-        for i, apple_music_song_isrc in enumerate(apple_music_song_isrcs):
-            song_data[apple_music_song_isrc]["apple_music_url"] = apple_music_song_urls[
-                i
-            ]
+        # # `apple_music_song_isrcs` and `apple_music_song_urls` are both in 1-10 order
+        # for i, apple_music_song_isrc in enumerate(apple_music_song_isrcs):
+        #     song_data[apple_music_song_isrc]["apple_music_url"] = apple_music_song_urls[
+        #         i
+        #     ]
+
+        song_data = spotify_song_data
 
         logger.debug("Final song data:\n\n%s\n", json.dumps(song_data, indent=4))
 
@@ -1003,7 +1017,8 @@ async def main() -> None:
                 load_artist_song_map_data(con1, song_data),
                 # ISRCs are in 1-10 order. After concatenation, former are 1-10 from Spotify and
                 # latter are 1-10 from Apple Music
-                load_ranking_data(con2, spotify_song_isrcs + apple_music_song_isrcs),
+                # load_ranking_data(con2, spotify_song_isrcs + apple_music_song_isrcs),
+                load_ranking_data(con2, spotify_song_isrcs),
             )
 
         logger.info("Script finished successfully.")
