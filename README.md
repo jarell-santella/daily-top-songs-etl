@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, April 12, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, April 13, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -15,10 +15,10 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 | — | 4 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
 | — | 5 | Kendrick Lamar, SZA \- luther \(with sza\) | [link](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [link](https://music.apple.com/us/song/luther/1781270323) |
 | — | 6 | Gracie Abrams \- That’s So True | [link](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [link](https://music.apple.com/us/song/thats-so-true/1773474483) |
-| — | 7 | Gigi Perez \- Sailor Song | [link](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) |  |
-| +2 | 8 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
-| -1 | 9 | Bad Bunny \- DtMF | [link](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [link](https://music.apple.com/us/song/dtmf/1787023936) |
-| -1 | 10 | Doechii \- Anxiety | [link](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [link](https://music.apple.com/us/song/anxiety/1800052074) |
+| +1 | 7 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
+| +1 | 8 | Bad Bunny \- DtMF | [link](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [link](https://music.apple.com/us/song/dtmf/1787023936) |
+| +1 | 9 | Doechii \- Anxiety | [link](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [link](https://music.apple.com/us/song/anxiety/1800052074) |
+| -3 | 10 | Gigi Perez \- Sailor Song | [link](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) |  |
 
 ## Apple Music
 
