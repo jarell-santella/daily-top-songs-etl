@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Tuesday, April 29, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wednesday, April 30, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -10,15 +10,15 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Tue
 |             | Rank            | Song            | Spotify Link                    | Apple Music Link                                                                             |
 | ----------- | --------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- |
 | — | 1 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
-| +1 | 2 | Billie Eilish \- BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
-| -1 | 3 | Alex Warren \- Ordinary | [link](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) |  |
+| +1 | 2 | Alex Warren \- Ordinary | [link](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) |  |
+| -1 | 3 | Billie Eilish \- BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
 | — | 4 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
-| +4 | 5 | Gigi Perez \- Sailor Song | [link](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) |  |
-| — | 6 | Gracie Abrams \- That’s So True | [link](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [link](https://music.apple.com/us/song/thats-so-true/1773474483) |
-| — | 7 | JENNIE \- like JENNIE | [link](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) |  |
-| -3 | 8 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
-| -1 | 9 | Kendrick Lamar, SZA \- luther \(with sza\) | [link](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [link](https://music.apple.com/us/song/luther/1781270323) |
-| new | 10 | Billie Eilish \- WILDFLOWER | [link](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [link](https://music.apple.com/us/song/wildflower/1739659144) |
+| +1 | 5 | Gracie Abrams \- That’s So True | [link](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [link](https://music.apple.com/us/song/thats-so-true/1773474483) |
+| +1 | 6 | JENNIE \- like JENNIE | [link](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) |  |
+| +2 | 7 | Kendrick Lamar, SZA \- luther \(with sza\) | [link](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [link](https://music.apple.com/us/song/luther/1781270323) |
+| — | 8 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
+| -4 | 9 | Gigi Perez \- Sailor Song | [link](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) |  |
+| — | 10 | Billie Eilish \- WILDFLOWER | [link](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [link](https://music.apple.com/us/song/wildflower/1739659144) |
 
 ## Apple Music
 
