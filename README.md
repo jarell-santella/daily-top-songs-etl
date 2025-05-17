@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Friday, May 16, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, May 17, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -15,10 +15,10 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Fri
 | — | 4 | Bad Bunny \- DtMF | [link](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [link](https://music.apple.com/us/song/dtmf/1787023936) |
 | — | 5 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
 | — | 6 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
-| +1 | 7 | sombr \- undressed | [link](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) |  |
-| -1 | 8 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
+| +1 | 7 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
+| -1 | 8 | sombr \- undressed | [link](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) |  |
 | — | 9 | Bad Bunny \- BAILE INoLVIDABLE | [link](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [link](https://music.apple.com/us/song/baile-inolvidable/1787022842) |
-| — | 10 | JENNIE \- like JENNIE | [link](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) |  |
+| new | 10 | Charita Utami, Fourtwnty \- Mangu | [link](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) |  |
 
 ## Apple Music
 
