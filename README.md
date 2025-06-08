@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, June 7, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, June 8, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -9,16 +9,16 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 
 |             | Rank            | Song            | Spotify Link                    | Apple Music Link                                                                             |
 | ----------- | --------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- |
-| — | 1 | Alex Warren \- Ordinary | [link](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) |  |
-| — | 2 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
-| — | 3 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
-| — | 4 | Billie Eilish \- BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
+| new | 1 | Sabrina Carpenter \- Manchild | [link](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) |  |
+| -1 | 2 | Alex Warren \- Ordinary | [link](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) |  |
+| -1 | 3 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
+| -1 | 4 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
 | — | 5 | Jin \- Don’t Say You Love Me | [link](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) |  |
-| — | 6 | sombr \- undressed | [link](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) |  |
-| — | 7 | F1 The Album, Tate McRae \- Just Keep Watching \(From F1® The Movie\) | [link](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) |  |
-| — | 8 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
-| — | 9 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
-| new | 10 | Jimin \- Who | [link](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) |  |
+| -2 | 6 | Billie Eilish \- BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
+| +1 | 7 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
+| -1 | 8 | F1 The Album, Tate McRae \- Just Keep Watching \(From F1® The Movie\) | [link](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) |  |
+| -3 | 9 | sombr \- undressed | [link](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) |  |
+| -1 | 10 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
 
 ## Apple Music
 
