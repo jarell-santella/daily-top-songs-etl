@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, June 14, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, June 15, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -17,8 +17,8 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 | — | 6 | Jin \- Don’t Say You Love Me | [link](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) |  |
 | — | 7 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
 | — | 8 | Ravyn Lenae \- Love Me Not | [link](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) |  |
-| — | 9 | sombr \- undressed | [link](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) |  |
-| — | 10 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
+| +1 | 9 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
+| -1 | 10 | sombr \- undressed | [link](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) |  |
 
 ## Apple Music
 
