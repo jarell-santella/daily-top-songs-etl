@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Monday, June 23, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Tuesday, June 24, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -10,15 +10,15 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Mon
 |             | Rank            | Song            | Spotify Link                    | Apple Music Link                                                                             |
 | ----------- | --------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- |
 | — | 1 | Alex Warren \- Ordinary | [link](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) |  |
-| — | 2 | Sabrina Carpenter \- Manchild | [link](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) |  |
-| — | 3 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
+| +1 | 2 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
+| -1 | 3 | Sabrina Carpenter \- Manchild | [link](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) |  |
 | — | 4 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
 | — | 5 | Billie Eilish \- BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
-| — | 6 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
-| — | 7 | Jin \- Don’t Say You Love Me | [link](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) |  |
-| +1 | 8 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
-| -1 | 9 | Ravyn Lenae \- Love Me Not | [link](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) |  |
-| new | 10 | Sabrina Carpenter \- Espresso | [link](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [link](https://music.apple.com/us/song/espresso/1740212434) |
+| +1 | 6 | Jin \- Don’t Say You Love Me | [link](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) |  |
+| -1 | 7 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
+| +1 | 8 | Ravyn Lenae \- Love Me Not | [link](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) |  |
+| -1 | 9 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
+| new | 10 | sombr \- undressed | [link](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) |  |
 
 ## Apple Music
 
