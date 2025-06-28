@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Friday, June 27, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, June 28, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -17,7 +17,7 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Fri
 | — | 6 | Jin \- Don’t Say You Love Me | [link](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) |  |
 | — | 7 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
 | — | 8 | Ravyn Lenae \- Love Me Not | [link](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) |  |
-| — | 9 | sombr \- undressed | [link](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) |  |
+| new | 9 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
 | — | 10 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
 
 ## Apple Music
