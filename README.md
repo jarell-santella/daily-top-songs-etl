@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, June 29, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Monday, June 30, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -14,11 +14,11 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sun
 | — | 3 | Sabrina Carpenter \- Manchild | [link](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) |  |
 | — | 4 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
 | — | 5 | Billie Eilish \- BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
-| +1 | 6 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
-| +2 | 7 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
-| -2 | 8 | Jin \- Don’t Say You Love Me | [link](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) |  |
-| -1 | 9 | Ravyn Lenae \- Love Me Not | [link](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) |  |
-| new | 10 | KATSEYE \- Gabriela | [link](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) |  |
+| — | 6 | Beéle, Ovy On The Drums, W Sound \- La Plena \- W Sound 05 | [link](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) |  |
+| — | 7 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
+| +1 | 8 | Ravyn Lenae \- Love Me Not | [link](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) |  |
+| new | 9 | Bruno Mars, ROSÉ \- APT\. | [link](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [link](https://music.apple.com/us/song/apt/1773452221) |
+| -2 | 10 | Jin \- Don’t Say You Love Me | [link](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) |  |
 
 ## Apple Music
 
