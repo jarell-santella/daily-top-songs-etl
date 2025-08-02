@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Friday, August 1, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, August 2, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -14,11 +14,11 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Fri
 | — | 3 | Alex Warren \- Ordinary | [link](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) |  |
 | — | 4 | Justin Bieber \- DAISIES | [link](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) |  |
 | — | 5 | Andrew Choi, Danny Chung, KEVIN WOO, KPop Demon Hunters Cast, Neckwav, Saja Boys, samUIL Lee \- Your Idol | [link](https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031) |  |
-| — | 6 | Arslan Nizami, Faheem Abdullah, Irshad Kamil, Tanishk Bagchi \- Saiyaara \(From "Saiyaara"\) | [link](https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF) |  |
-| — | 7 | Andrew Choi, Danny Chung, KEVIN WOO, KPop Demon Hunters Cast, Neckwav, Saja Boys, samUIL Lee \- Soda Pop | [link](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) |  |
-| — | 8 | BLACKPINK \- JUMP | [link](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) |  |
-| +1 | 9 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
-| -1 | 10 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- How It’s Done | [link](https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6) |  |
+| +1 | 6 | Andrew Choi, Danny Chung, KEVIN WOO, KPop Demon Hunters Cast, Neckwav, Saja Boys, samUIL Lee \- Soda Pop | [link](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) |  |
+| +1 | 7 | BLACKPINK \- JUMP | [link](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) |  |
+| -2 | 8 | Arslan Nizami, Faheem Abdullah, Irshad Kamil, Tanishk Bagchi \- Saiyaara \(From "Saiyaara"\) | [link](https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF) |  |
+| — | 9 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
+| — | 10 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- How It’s Done | [link](https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6) |  |
 
 ## Apple Music
 
