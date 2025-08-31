@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, August 30, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, August 31, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -9,16 +9,16 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 
 |             | Rank            | Song            | Spotify Link                    | Apple Music Link                                                                             |
 | ----------- | --------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- |
-| — | 1 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
-| — | 2 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
-| — | 3 | Alex Warren \- Ordinary | [link](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) |  |
-| — | 4 | Andrew Choi, Danny Chung, KEVIN WOO, KPop Demon Hunters Cast, Neckwav, Saja Boys, samUIL Lee \- Soda Pop | [link](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) |  |
-| — | 5 | Andrew Choi, Danny Chung, KEVIN WOO, KPop Demon Hunters Cast, Neckwav, Saja Boys, samUIL Lee \- Your Idol | [link](https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031) |  |
-| — | 6 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- How It’s Done | [link](https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6) |  |
-| — | 7 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
-| +2 | 8 | Billie Eilish \- BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
-| — | 9 | Justin Bieber \- DAISIES | [link](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) |  |
-| -2 | 10 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- What It Sounds Like | [link](https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer) |  |
+| new | 1 | Sabrina Carpenter \- Tears | [link](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) |  |
+| -1 | 2 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
+| new | 3 | Sabrina Carpenter \- Manchild | [link](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) |  |
+| new | 4 | Sabrina Carpenter \- My Man on Willpower | [link](https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy) |  |
+| new | 5 | Sabrina Carpenter \- Sugar Talking | [link](https://open.spotify.com/track/5B3GZOZYXNzWpUXQC42hxZ) |  |
+| new | 6 | Sabrina Carpenter \- Nobody’s Son | [link](https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH) |  |
+| new | 7 | Sabrina Carpenter \- We Almost Broke Up Again Last Night | [link](https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv) |  |
+| -5 | 8 | Alex Warren \- Ordinary | [link](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) |  |
+| new | 9 | Sabrina Carpenter \- When Did You Get Hot? | [link](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) |  |
+| -8 | 10 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
 
 ## Apple Music
 
