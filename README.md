@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Monday, September 8, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Tuesday, September 9, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
