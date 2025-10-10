@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Thursday, October 9, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Friday, October 10, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -13,12 +13,12 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Thu
 | — | 2 | Taylor Swift \- Opalite | [link](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) |  |
 | — | 3 | Taylor Swift \- Elizabeth Taylor | [link](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) |  |
 | — | 4 | Taylor Swift \- Father Figure | [link](https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY) |  |
-| +2 | 5 | Taylor Swift \- Wood | [link](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) |  |
-| -1 | 6 | Taylor Swift \- CANCELLED\! | [link](https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs) |  |
-| -1 | 7 | Taylor Swift \- Actually Romantic | [link](https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1) |  |
-| — | 8 | Taylor Swift \- Wi\$h Li\$t | [link](https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu) |  |
-| — | 9 | Sabrina Carpenter, Taylor Swift \- The Life of a Showgirl \(feat\. Sabrina Carpenter\) | [link](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) |  |
-| — | 10 | Taylor Swift \- Eldest Daughter | [link](https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c) |  |
+| new | 5 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
+| -1 | 6 | Taylor Swift \- Wood | [link](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) |  |
+| +1 | 7 | Taylor Swift \- Wi\$h Li\$t | [link](https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu) |  |
+| -2 | 8 | Taylor Swift \- CANCELLED\! | [link](https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs) |  |
+| -2 | 9 | Taylor Swift \- Actually Romantic | [link](https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1) |  |
+| -1 | 10 | Sabrina Carpenter, Taylor Swift \- The Life of a Showgirl \(feat\. Sabrina Carpenter\) | [link](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) |  |
 
 ## Apple Music
 
