@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Tuesday, November 4, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wednesday, November 5, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -9,16 +9,16 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Tue
 
 |             | Rank            | Song            | Spotify Link                    | Apple Music Link                                                                             |
 | ----------- | --------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- |
-| +1 | 1 | Taylor Swift \- The Fate of Ophelia | [link](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) |  |
-| -1 | 2 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
+| — | 1 | Taylor Swift \- The Fate of Ophelia | [link](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) |  |
+| — | 2 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
 | — | 3 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
 | — | 4 | Taylor Swift \- Opalite | [link](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) |  |
 | — | 5 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
-| +1 | 6 | Billie Eilish \- BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
-| -1 | 7 | Alex Warren \- Ordinary | [link](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) |  |
-| new | 8 | KATSEYE \- Gabriela | [link](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) |  |
-| -1 | 9 | Andrew Choi, Danny Chung, KEVIN WOO, KPop Demon Hunters Cast, Neckwav, Saja Boys, samUIL Lee \- Soda Pop | [link](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) |  |
-| — | 10 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
+| +1 | 6 | Alex Warren \- Ordinary | [link](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) |  |
+| +3 | 7 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
+| new | 8 | Jin \- Don’t Say You Love Me | [link](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) |  |
+| -3 | 9 | Billie Eilish \- BIRDS OF A FEATHER | [link](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [link](https://music.apple.com/us/song/birds-of-a-feather/1739659142) |
+| new | 10 | RAYE \- WHERE IS MY HUSBAND\! | [link](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) |  |
 
 ## Apple Music
 
