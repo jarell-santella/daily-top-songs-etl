@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, December 27, 2025. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, December 28, 2025. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -9,16 +9,16 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 
 |             | Rank            | Song            | Spotify Link                    | Apple Music Link                                                                             |
 | ----------- | --------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- |
-| — | 1 | Mariah Carey \- All I Want for Christmas Is You | [link](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) |  |
+| new | 1 | Taylor Swift \- The Fate of Ophelia | [link](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) |  |
 | — | 2 | Wham\! \- Last Christmas | [link](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) |  |
-| — | 3 | Brenda Lee \- Rockin' Around The Christmas Tree | [link](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) |  |
-| — | 4 | Bobby Helms \- Jingle Bell Rock | [link](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) |  |
-| — | 5 | Dean Martin \- Let It Snow\! Let It Snow\! Let It Snow\! | [link](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) |  |
-| +3 | 6 | Andy Williams \- It's the Most Wonderful Time of the Year | [link](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) |  |
-| -1 | 7 | Ariana Grande \- Santa Tell Me | [link](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) |  |
-| +2 | 8 | José Feliciano \- Feliz Navidad | [link](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) |  |
-| -2 | 9 | Kelly Clarkson \- Underneath the Tree | [link](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) |  |
-| new | 10 | The Ronettes \- Sleigh Ride | [link](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) |  |
+| -2 | 3 | Mariah Carey \- All I Want for Christmas Is You | [link](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) |  |
+| -1 | 4 | Brenda Lee \- Rockin' Around The Christmas Tree | [link](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) |  |
+| new | 5 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
+| -2 | 6 | Bobby Helms \- Jingle Bell Rock | [link](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) |  |
+| — | 7 | Ariana Grande \- Santa Tell Me | [link](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) |  |
+| new | 8 | Sia \- Snowman | [link](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) |  |
+| new | 9 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
+| -5 | 10 | Dean Martin \- Let It Snow\! Let It Snow\! Let It Snow\! | [link](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) |  |
 
 ## Apple Music
 
