@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, January 11, 2026. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Monday, January 12, 2026. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -11,14 +11,14 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sun
 | ----------- | --------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- |
 | — | 1 | Djo \- End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
 | — | 2 | Taylor Swift \- The Fate of Ophelia | [link](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) |  |
-| new | 3 | Bruno Mars \- I Just Might | [link](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) |  |
+| +3 | 3 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
 | — | 4 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
-| -2 | 5 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
-| -1 | 6 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
-| -1 | 7 | RAYE \- WHERE IS MY HUSBAND\! | [link](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) |  |
-| -1 | 8 | Olivia Dean \- So Easy \(To Fall In Love\) | [link](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) |  |
-| — | 9 | The Police \- Every Breath You Take | [link](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) |  |
-| — | 10 | Zara Larsson \- Lush Life | [link](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) |  |
+| — | 5 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
+| +1 | 6 | RAYE \- WHERE IS MY HUSBAND\! | [link](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) |  |
+| +3 | 7 | Zara Larsson \- Lush Life | [link](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) |  |
+| -5 | 8 | Bruno Mars \- I Just Might | [link](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) |  |
+| -1 | 9 | Olivia Dean \- So Easy \(To Fall In Love\) | [link](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) |  |
+| -1 | 10 | The Police \- Every Breath You Take | [link](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) |  |
 
 ## Apple Music
 
