@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, January 17, 2026. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, January 18, 2026. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -16,9 +16,9 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 | — | 5 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
 | — | 6 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
 | — | 7 | RAYE \- WHERE IS MY HUSBAND\! | [link](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) |  |
-| — | 8 | Olivia Dean \- So Easy \(To Fall In Love\) | [link](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) |  |
-| +1 | 9 | SIENNA SPIRO \- Die On This Hill | [link](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) |  |
-| -1 | 10 | Zara Larsson \- Lush Life | [link](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) |  |
+| new | 8 | Bruno Mars, Lady Gaga \- Die With A Smile | [link](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [link](https://music.apple.com/us/song/die-with-a-smile/1762656732) |
+| +1 | 9 | Zara Larsson \- Lush Life | [link](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) |  |
+| -1 | 10 | SIENNA SPIRO \- Die On This Hill | [link](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) |  |
 
 ## Apple Music
 
