@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, January 31, 2026. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, February 1, 2026. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -11,14 +11,14 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 | ----------- | --------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- |
 | — | 1 | Djo \- End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
 | — | 2 | Taylor Swift \- The Fate of Ophelia | [link](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) |  |
-| — | 3 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
-| +2 | 4 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
+| new | 3 | Noah Kahan \- The Great Divide | [link](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) |  |
+| +2 | 4 | Harry Styles \- Aperture | [link](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) |  |
 | — | 5 | RAYE \- WHERE IS MY HUSBAND\! | [link](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) |  |
-| -2 | 6 | Harry Styles \- Aperture | [link](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) |  |
-| — | 7 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
-| — | 8 | Bruno Mars \- I Just Might | [link](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) |  |
+| -3 | 6 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
+| -3 | 7 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
+| -1 | 8 | AUDREY NUNA, EJAE, HUNTR/X, KPop Demon Hunters Cast, REI AMI \- Golden | [link](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) |  |
 | — | 9 | Zara Larsson \- Lush Life | [link](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) |  |
-| new | 10 | Olivia Dean \- So Easy \(To Fall In Love\) | [link](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) |  |
+| -2 | 10 | Bruno Mars \- I Just Might | [link](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) |  |
 
 ## Apple Music
 
