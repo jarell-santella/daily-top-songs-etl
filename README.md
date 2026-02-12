@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wednesday, February 11, 2026. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Thursday, February 12, 2026. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -12,13 +12,13 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wed
 | — | 1 | Bad Bunny \- DtMF | [link](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [link](https://music.apple.com/us/song/dtmf/1787023936) |
 | — | 2 | Bad Bunny \- BAILE INoLVIDABLE | [link](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [link](https://music.apple.com/us/song/baile-inolvidable/1787022842) |
 | — | 3 | Bad Bunny \- NUEVAYoL | [link](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [link](https://music.apple.com/us/song/nuevayol/1787022572) |
-| +3 | 4 | Bad Bunny \- EoO | [link](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) |  |
-| new | 5 | Bad Bunny \- VOY A LLeVARTE PA PR | [link](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) |  |
-| new | 6 | Bad Bunny \- Tití Me Preguntó | [link](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) |  |
-| new | 7 | Bad Bunny, J Balvin \- LA CANCIÓN | [link](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) |  |
-| -4 | 8 | Djo \- End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
-| -3 | 9 | Taylor Swift \- The Fate of Ophelia | [link](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) |  |
-| -5 | 10 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
+| — | 4 | Bad Bunny \- EoO | [link](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) |  |
+| +1 | 5 | Bad Bunny \- Tití Me Preguntó | [link](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) |  |
+| -1 | 6 | Bad Bunny \- VOY A LLeVARTE PA PR | [link](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) |  |
+| +1 | 7 | Djo \- End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
+| -1 | 8 | Bad Bunny, J Balvin \- LA CANCIÓN | [link](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) |  |
+| — | 9 | Taylor Swift \- The Fate of Ophelia | [link](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) |  |
+| — | 10 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
 
 ## Apple Music
 
