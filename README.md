@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, March 21, 2026. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, March 22, 2026. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -9,16 +9,16 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sat
 
 |             | Rank            | Song            | Spotify Link                    | Apple Music Link                                                                             |
 | ----------- | --------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- |
-| — | 1 | Dominic Fike \- Babydoll | [link](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) |  |
-| — | 2 | PinkPantheress, Zara Larsson \- Stateside \+ Zara Larsson | [link](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) |  |
-| — | 3 | Bruno Mars \- Risk It All | [link](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) |  |
-| — | 4 | Bad Bunny \- DtMF | [link](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [link](https://music.apple.com/us/song/dtmf/1787023936) |
-| — | 5 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
-| +1 | 6 | Olivia Dean \- So Easy \(To Fall In Love\) | [link](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) |  |
-| -1 | 7 | Djo \- End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
-| +1 | 8 | Taylor Swift \- The Fate of Ophelia | [link](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) |  |
-| -1 | 9 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
-| new | 10 | Harry Styles \- American Girls | [link](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) |  |
+| new | 1 | BTS \- SWIM | [link](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) |  |
+| new | 2 | BTS \- Body to Body | [link](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) |  |
+| new | 3 | BTS \- Hooligan | [link](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) |  |
+| new | 4 | BTS \- FYA | [link](https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv) |  |
+| new | 5 | BTS \- Aliens | [link](https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ) |  |
+| new | 6 | BTS \- 2\.0 | [link](https://open.spotify.com/track/0H653Nkt1VcM5A5MC4N6Fw) |  |
+| new | 7 | BTS \- Merry Go Round | [link](https://open.spotify.com/track/0iuC1cgzqw5yiHCgZE1QMp) |  |
+| new | 8 | BTS \- NORMAL | [link](https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5) |  |
+| new | 9 | BTS \- Like Animals | [link](https://open.spotify.com/track/1gvhtkVO3kvPnh8XcSkNGX) |  |
+| new | 10 | BTS \- they don’t know ’bout us | [link](https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9) |  |
 
 ## Apple Music
 
