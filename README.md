@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sunday, March 29, 2026. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Monday, March 30, 2026. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -12,13 +12,13 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Sun
 | — | 1 | BTS \- SWIM | [link](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) |  |
 | — | 2 | Dominic Fike \- Babydoll | [link](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) |  |
 | — | 3 | BTS \- Body to Body | [link](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) |  |
-| +3 | 4 | PinkPantheress, Zara Larsson \- Stateside \+ Zara Larsson | [link](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) |  |
-| -1 | 5 | BTS \- Hooligan | [link](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) |  |
-| -1 | 6 | BTS \- FYA | [link](https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv) |  |
-| new | 7 | Dave, Tems \- Raindance \(feat\. Tems\) | [link](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) |  |
-| -2 | 8 | BTS \- NORMAL | [link](https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5) |  |
-| — | 9 | Bruno Mars \- Risk It All | [link](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) |  |
-| new | 10 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
+| — | 4 | PinkPantheress, Zara Larsson \- Stateside \+ Zara Larsson | [link](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) |  |
+| +2 | 5 | Dave, Tems \- Raindance \(feat\. Tems\) | [link](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) |  |
+| -1 | 6 | BTS \- Hooligan | [link](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) |  |
+| new | 7 | Djo \- End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
+| +1 | 8 | Bruno Mars \- Risk It All | [link](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) |  |
+| +1 | 9 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
+| new | 10 | Bad Bunny \- DtMF | [link](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [link](https://music.apple.com/us/song/dtmf/1787023936) |
 
 ## Apple Music
 
