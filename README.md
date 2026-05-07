@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wednesday, May 6, 2026. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Thursday, May 7, 2026. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -15,10 +15,10 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wed
 | — | 4 | Dominic Fike \- Babydoll | [link](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) |  |
 | — | 5 | Olivia Rodrigo \- drop dead | [link](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) |  |
 | — | 6 | Michael Jackson \- Beat It | [link](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) |  |
-| — | 7 | Justin Bieber \- DAISIES | [link](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) |  |
-| — | 8 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
+| +1 | 7 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
+| -1 | 8 | Justin Bieber \- DAISIES | [link](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) |  |
 | — | 9 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
-| new | 10 | Bruno Mars \- Risk It All | [link](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) |  |
+| new | 10 | Djo \- End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
 
 ## Apple Music
 
