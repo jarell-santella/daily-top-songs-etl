@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Thursday, May 7, 2026. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Friday, May 8, 2026. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -15,10 +15,10 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Thu
 | — | 4 | Dominic Fike \- Babydoll | [link](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) |  |
 | — | 5 | Olivia Rodrigo \- drop dead | [link](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) |  |
 | — | 6 | Michael Jackson \- Beat It | [link](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) |  |
-| +1 | 7 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
-| -1 | 8 | Justin Bieber \- DAISIES | [link](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) |  |
-| — | 9 | Olivia Dean \- Man I Need | [link](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |  |
-| new | 10 | Djo \- End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
+| — | 7 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
+| new | 8 | Taylor Swift \- The Fate of Ophelia | [link](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) |  |
+| +1 | 9 | Djo \- End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
+| -2 | 10 | Justin Bieber \- DAISIES | [link](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) |  |
 
 ## Apple Music
 
