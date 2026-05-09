@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Friday, May 8, 2026. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, May 9, 2026. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -16,9 +16,9 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Fri
 | — | 5 | Olivia Rodrigo \- drop dead | [link](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) |  |
 | — | 6 | Michael Jackson \- Beat It | [link](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) |  |
 | — | 7 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
-| new | 8 | Taylor Swift \- The Fate of Ophelia | [link](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) |  |
-| +1 | 9 | Djo \- End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
-| -2 | 10 | Justin Bieber \- DAISIES | [link](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) |  |
+| new | 8 | JENNIE, Tame Impala \- Dracula \- JENNIE Remix | [link](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) |  |
+| -1 | 9 | Taylor Swift \- The Fate of Ophelia | [link](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) |  |
+| -1 | 10 | Djo \- End of Beginning | [link](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) |  |
 
 ## Apple Music
 
