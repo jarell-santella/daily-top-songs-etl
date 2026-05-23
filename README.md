@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Friday, May 22, 2026. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Saturday, May 23, 2026. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -15,10 +15,10 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Fri
 | — | 4 | Drake \- Janice STFU | [link](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) |  |
 | — | 5 | Dominic Fike \- Babydoll | [link](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) |  |
 | — | 6 | Michael Jackson \- Beat It | [link](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) |  |
-| — | 7 | Drake \- National Treasures | [link](https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D) |  |
-| — | 8 | Drake, Future, Molly Santana \- Ran To Atlanta \(feat\. Future & Molly Santana\) | [link](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) |  |
-| — | 9 | Drake \- Whisper My Name | [link](https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J) |  |
-| new | 10 | Malcolm Todd \- Earrings | [link](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) |  |
+| +1 | 7 | Drake, Future, Molly Santana \- Ran To Atlanta \(feat\. Future & Molly Santana\) | [link](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) |  |
+| -1 | 8 | Drake \- National Treasures | [link](https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D) |  |
+| +1 | 9 | Malcolm Todd \- Earrings | [link](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) |  |
+| new | 10 | sombr \- back to friends | [link](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) |  |
 
 ## Apple Music
 
