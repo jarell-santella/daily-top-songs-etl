@@ -1,6 +1,6 @@
 # Daily Top Songs
 
-Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wednesday, July 29, 2026. Updates daily shortly after 01:45 UTC.
+Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Thursday, July 30, 2026. Updates daily shortly after 01:45 UTC.
 
 > [!NOTE]  
 > Collection of Apple Music song data is currently disabled due to a critical error. It is not known when this will be fixed.
@@ -16,9 +16,9 @@ Showing top 10 [Spotify](#spotify) and [Apple Music](#apple-music) songs for Wed
 | — | 5 | Michael Jackson \- Billie Jean | [link](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) |  |
 | — | 6 | Dominic Fike \- Babydoll | [link](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) |  |
 | — | 7 | BTS \- SWIM | [link](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) |  |
-| +1 | 8 | Oasis \- Wonderwall \- Remastered | [link](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) |  |
-| -1 | 9 | Katy Perry \- The One That Got Away | [link](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) |  |
-| new | 10 | Temper City \- Self Aware | [link](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) |  |
+| +2 | 8 | Temper City \- Self Aware | [link](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) |  |
+| — | 9 | Katy Perry \- The One That Got Away | [link](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) |  |
+| -2 | 10 | Oasis \- Wonderwall \- Remastered | [link](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) |  |
 
 ## Apple Music
 
